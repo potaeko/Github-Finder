@@ -36,7 +36,7 @@ const User = ({ match }) => {
 
         return (
             <Fragment>
-                <Link to={process.env.PUBLIC_URL +'/'} className='btn btn-light'>
+                <Link to='/' className='btn btn-light'>
                     Back To Search
                 </Link>
                 Hireable: {' '} 
