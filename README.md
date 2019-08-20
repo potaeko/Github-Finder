@@ -1,6 +1,6 @@
 # Github-Finder
 This project was created with 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 - Hook & Context
 - react-router-dom
 - Github API
