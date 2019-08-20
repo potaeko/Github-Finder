@@ -1,4 +1,6 @@
-# Github-Finder
+# Github-Finder 
+    To find Github user profiles
+
 This project was created with 
 - Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 - Hook & Context
