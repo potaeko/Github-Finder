@@ -1,5 +1,6 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+// import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import { HashRouter as Router, Switch, Route} from 'react-router-dom';
 import Navbar from './components/layout/Navbar.js';
 import User from './components/users/User';
 import Alert from './components/layout/Alert';
