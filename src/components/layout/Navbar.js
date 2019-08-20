@@ -13,7 +13,7 @@ const Navbar = ({ icon, title}) => {
                     <Link to={process.env.PUBLIC_URL +'/'}>Home</Link>
                 </li>
                 <li>
-                    <Link to={process.env.PUBLIC_URL +'/about'}>About</Link>
+                    <Link to={'/about'}>About</Link>
                 </li>
             </ul>
         </nav>

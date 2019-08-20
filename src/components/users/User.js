@@ -44,7 +44,7 @@ const User = ({ match }) => {
                     <i className="fas fa-check text-success" />
                 ) : ( //else not hireable make icon X
                     <i className='fas fa-times-circle text-danger' />
-                )};
+                )}
                 <div className="card grid-2">
                     <div className="all-center">
                         <img 
