@@ -8,6 +8,7 @@ This project was created with
 - Github API
 - Axios
 - fontawesome
+- testing with Postman
 
 ## Available Scripts
 
